@@ -1,0 +1,11 @@
+,name,relationship,department,cgpa,admission_date,gender,year,Month,Day
+0,Sandra,Single,Biochemistry,3.5,2019-01-10,Female,2019,1,10
+1,Abdul,Married,Criminology,4.0,2020-04-10,Male,2020,4,10
+2,Sarah,Singe,Physics,2.2,2018-05-08,Female,2018,5,8
+3,Loveth,Married,Geology,3.5,2021-05-18,Female,2021,5,18
+4,Daniel,Married,Biochemistry,2.2,2018-10-08,Male,2018,10,8
+5,Peter,Single,Microbiology,3.3,2020-10-10,Male,2020,10,10
+6,Danny,Married,Microbiology,5.0,2021-04-06,Male,2021,4,6
+7,Faith,Married,Chemistry,3.0,2018-10-20,Female,2018,10,20
+8,Hasanat,Single,Physics,4.1,2018-04-09,Female,2018,4,9
+9,Samuel,Single,Law,4.4,2021-04-10,Male,2021,4,10
